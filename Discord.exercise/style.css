@@ -10,8 +10,8 @@
   
     display: grid;
     grid-template:
-      "server-menu header header" 40px
-      "server-menu channel-menu content" 1fr /
+      /* "server-menu header header" 60px */
+       "server-menu channel-menu content" 1fr /
       80px 200px 1fr;
   }
   
